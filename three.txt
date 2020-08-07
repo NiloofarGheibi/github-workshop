@@ -1,2 +1,0 @@
-# File Three
-This is a text #3. 
