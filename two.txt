@@ -1,3 +1,4 @@
 # File Two
 This is a text #2. 
-This is a description. 
+This is different description on a hotfix branch - attempt 2
+
